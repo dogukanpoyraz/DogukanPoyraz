@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQEV8vgJi2Ppxw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1704287033420?e=1741824000&v=beta&t=LPeRQp_eBgKJK-SDQIrdYZfbhvv9AxhWIfhPbTZK90Q)
+![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQEV8vgJi2Ppxw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1704287033420?e=1741824000&v=beta&t=LPeRQp_eBgKJK-SDQIrdYZfbhvv9AxhWIfhPbTZK90Q)
 <h1 align="center">Hi 👋, I'm Doğukan POYRAZ</h1>
 <h3 align="center">Computer Engineering student in Turkey</h3>
 
