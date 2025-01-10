@@ -1,6 +1,10 @@
-![MasterHead](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=300&section=header&text=Doğukan%20POYRAZ&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20|%20Developer&descAlignY=51&descAlign=62&fontColor=fff)
+![MasterHead](https://capsule-render.vercel.app/api?type=waving&color=0:0066ff,100:00ffff&height=300&section=header&text=Doğukan%20POYRAZ&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20|%20Developer&descAlignY=51&descAlign=62&fontColor=fff)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F70000&background=FFFFFF00&center=true&vCenter=true&width=435&lines=A+Passionate+Programmer;Embedded+Systems+Developer;Full+Stack+Developer;Always+learning+new+things)](https://git.io/typing-svg)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=0066ff&background=FFFFFF00&center=true&vCenter=true&width=435&lines=A+Passionate+Programmer;Embedded+Systems+Developer;Full+Stack+Developer;Always+learning+new+things)](https://git.io/typing-svg)
+
+</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="450">
@@ -9,7 +13,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="20" height="20" style="vertical-align: middle;"> 
     <img src="https://komarev.com/ghpvc/?username=dogukanpoyraz&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile-views" />
+    &nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="20" height="20" style="vertical-align: middle;">
     <img src="https://img.shields.io/github/followers/dogukanpoyraz?label=Followers&style=for-the-badge&color=0e75b6" alt="followers" />
 </p>
 
@@ -93,6 +100,6 @@ console.log("Code is like humor. When you have to explain it, it's bad.");
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0066ff,100:00ffff&height=100&section=footer)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
