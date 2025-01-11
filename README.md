@@ -13,11 +13,25 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="20" height="20" style="vertical-align: middle;"> 
-    <img src="https://komarev.com/ghpvc/?username=dogukanpoyraz&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile-views" />
-    &nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="20" height="20" style="vertical-align: middle;">
-    <img src="https://img.shields.io/github/followers/dogukanpoyraz?label=Followers&style=for-the-badge&color=0e75b6" alt="followers" />
+  <a href="https://github.com/dogukanpoyraz" style="text-decoration: none;">
+    <div align="center">
+      <img src="https://github-stats-alpha.vercel.app/api?username=dogukanpoyraz&cc=0D1117&tc=fff&ic=0066ff&bc=0D1117" alt="GitHub Stats">
+    </div>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/dogukanpoyraz?tab=followers" style="text-decoration: none;">
+    <img src="https://custom-icon-badges.demolab.com/github/followers/dogukanpoyraz?color=0066ff&labelColor=0D1117&style=for-the-badge&logo=person-add&label=Followers&logoColor=white" alt="followers"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/dogukanpoyraz?tab=repositories" style="text-decoration: none;">
+    <img src="https://custom-icon-badges.demolab.com/github/stars/dogukanpoyraz?color=0066ff&labelColor=0D1117&style=for-the-badge&logo=star&label=Total%20Stars&logoColor=white" alt="total stars"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="#" style="text-decoration: none;">
+    <img src="https://komarev.com/ghpvc/?username=dogukanpoyraz&style=for-the-badge&color=0066ff&labelColor=0D1117&label=Profile%20Views" alt="profile views"/>
+  </a>
 </p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> About Me
@@ -54,17 +68,20 @@ const dogukan = {
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> GitHub Stats
 
-<p align="center">
-  <a href="https://awesome-github-stats.azurewebsites.net/user-stats/dogukanpoyraz">
-    <img width="49%" alt="stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/dogukanpoyraz?cardType=github&theme=radical&preferLogin=false">
-  </a>
-  <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dogukanpoyraz">
-    <img width="49%" alt="Graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dogukanpoyraz&theme=radical">
-  </a>
-</p>
+<div align="center">
+  <img height="180em" src="https://awesome-github-stats.azurewebsites.net/user-stats/dogukanpoyraz?cardType=github&theme=dark&titleColor=00ffff&text=0066ff&icon=0066ff&ring=00ffff&bgColor=0D1117&hide_border=true&show_icons=true"/>
+</div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dogukanpoyraz&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1" alt="trophies">
+  <img width="95%" alt="Graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dogukanpoyraz&theme=transparent&bg_color=0D1117&title_color=00ffff&text_color=0066ff&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=dogukanpoyraz&bg_color=0D1117&color=0066ff&line=00ffff&point=FFFFFF&hide_border=true&title_color=00ffff"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dogukanpoyraz&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1" width="95%" alt="Trophy"/>
 </div>
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> Connect with Me
