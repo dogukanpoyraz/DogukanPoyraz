@@ -77,10 +77,6 @@ const dogukan = {
   <img height="150em" width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dogukanpoyraz&theme=transparent&bg_color=0D1117&title_color=00ffff&text_color=0066ff&hide_border=true"/>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dogukanpoyraz&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1&column=8" alt="Trophy"/>
-</div>
-
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> Connect with Me
 
 <p align="center">
